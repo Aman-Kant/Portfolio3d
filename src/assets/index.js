@@ -30,7 +30,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ymslii from "./company/ymslii.png";
-import PureEV from "./company/PureEV.png";
+import pureEV from "./company/pureEV.png";
 
 export {
   logo,
@@ -62,5 +62,5 @@ export {
   carrent,
   jobit,
   tripguide,
-  PureEV,
+  pureEV,
 };
