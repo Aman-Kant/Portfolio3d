@@ -21,7 +21,7 @@ import {
   jobit,
   tripguide,
   threejs,
-  PureEV,
+  pureEV,
 } from "../assets";
 
 export const navLinks = [
@@ -117,7 +117,7 @@ const experiences = [
   {
     title: "Frontend Developer Intern",
     company_name: "PureEV",
-    icon: PureEV,
+    icon: pureEV,
     iconBg: "#E6DEDD",
     date: "Jan 2022 - Jun 2022",
     points: [
