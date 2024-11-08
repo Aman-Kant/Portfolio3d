@@ -29,6 +29,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import ymslii from "./company/ymslii.png";
+import PureEV from "./company/PureEV.png";
 
 export {
   logo,
@@ -53,10 +55,12 @@ export {
   typescript,
   threejs,
   meta,
+  ymslii,
   shopify,
   starbucks,
   tesla,
   carrent,
   jobit,
   tripguide,
+  PureEV,
 };
