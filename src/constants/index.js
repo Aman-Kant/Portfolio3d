@@ -164,7 +164,7 @@ const testimonials = [
     name: "Oracle OCA",
     designation: "Issued",
     company: "Oracle Education",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qNOnjeIjC5NL-KgXpj6wWrxnVr38WyLzyA&s",
+    image: "https://cdn-icons-png.flaticon.com/512/16183/16183644.png",
   },
   {
     testimonial:
