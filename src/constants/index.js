@@ -160,27 +160,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "An Oracle Certified Associate, Java SE 8 Programmer, demonstrates expertise in OOP's concepts, Java programming, and Java platforms and technologies.",
+    name: "Oracle OCA",
+    designation: "Issued",
+    company: "Oracle Education",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qNOnjeIjC5NL-KgXpj6wWrxnVr38WyLzyA&s",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "An AntWalk-certified Java specialist demonstrates expertise in Core and Advanced Java, including Java SE 8 features, OOP principles, and Java technologies.",
+    name: "Antwalk JAVA",
+    designation: "Issued",
+    company: "Antwalk Edu",
+    image: "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "An AntWalk-certified MERN Stack specialist demonstrates expertise in building full-stack web applications with MERN, creating scalable, responsive, and efficient solutions.",
+    name: "Antwalk MERN",
+    designation: "Issued",
+    company: "Antwalk Edu",
+    image: "https://cdn-icons-png.flaticon.com/512/1199/1199124.png",
   },
 ];
 
