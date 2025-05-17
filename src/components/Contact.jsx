@@ -33,8 +33,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_dk7iaki',
-        'template_t8zs643',
+        'service_l9hvwhv',
+        'template_e0j4gd3',
         {
           from_name: form.name,
           to_name: "Aman Kant",
